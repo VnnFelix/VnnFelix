@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Vinícius%20Felix&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Banner" width="100%"/>
-
-<h1 align="center"> Olá, eu sou o Vinícius Felix</h1>
+<br>
+<h1 align="center">👋 Olá, eu sou o Vinícius Felix</h1>
 
 <p align="center">
 🎓 Estudante de Desenvolvimento de Sistemas no SESI / SENAI<br>
