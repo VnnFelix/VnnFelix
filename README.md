@@ -8,12 +8,6 @@
 🔐 Interessado em Desenvolvimento de Softwares <br>
 </p>
 
-<p align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO_AQUI?label=Seguidores&style=social" alt="Followers">
-  </a>
-</p>
-
 ---
 
 ##  Sobre mim:
@@ -45,15 +39,6 @@
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" height="160px">
-</p>
-
----
-
 ## 🎯 Objetivos
 
 - Evoluir como desenvolvedor
@@ -76,7 +61,7 @@
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> 
-<a href="mailto:seuemail@exemplo.com">
+<a href=vfelix2022santos@gmail.com>
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </div>
@@ -84,5 +69,3 @@
 <br>
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
-
-<img src="https://capsule-render.vercel.app/render?type=slice&color=0077B5&height=100&section=footer" alt="Footer" width="100%"/>
